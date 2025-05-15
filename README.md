@@ -1,4 +1,4 @@
-# 🧭 mcPlayerStatsTracker API
+# 🧭 mcplayer-stats-api
 
 A Spring Boot RESTful API designed to support the **Minecraft Player Stats Tracker** plugin. This API stores, tracks, and manages player statistics from a Spigot Minecraft server in real time.
 
@@ -33,6 +33,6 @@ A Spring Boot RESTful API designed to support the **Minecraft Player Stats Track
 ### Clone & Build
 
 ```bash
-git clone https://github.com/your-username/mcPlayerStatsTracker-API.git
-cd mcPlayerStatsTracker-API
+git clone https://github.com/Phoenixxo/mcplayer-stats-api
+cd mcplayer-stats-api
 mvn clean install
